@@ -1,0 +1,3 @@
+[Fredorch extension](https://www.amazon.com/FREDORCH-Machine-Attachment-Extension-Premium/dp/B07KR12N55/)
+
+[Various toy attachment options for Fredorch style connector](https://www.aliexpress.us/item/3256802851038756.html?spm=a2g0o.productlist.main.27.31d0490co753jG&algo_pvid=c0b487ca-e836-44c2-b1d4-f65ff523052c&algo_exp_id=c0b487ca-e836-44c2-b1d4-f65ff523052c-13&pdp_npi=3%40dis%21USD%219.36%216.36%21%21%21%21%21%4021227f7e16844688028351009d077c%2112000023378561200%21sea%21US%210&curPageLogUid=LEnPjizxa0Gr)
