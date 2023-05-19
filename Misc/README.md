@@ -1,0 +1,1 @@
+The Misc folder just contains various files and findings that I have yet to sort or characterize. 
