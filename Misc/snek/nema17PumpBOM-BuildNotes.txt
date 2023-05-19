@@ -1,0 +1,13 @@
+5 m5x30mm(Rotor->Roller)
+4 m5x15mm(Pump Body -> Nema23)
+4 m3x10-25 (Cover -> Pump Body, made the hole deep stick whatever in there)
+2 m3 grubscrews(longer the better, its like a 30mm deep hole, probably should be designed better)
+10  625-2RS(Roter -> rollers)
+9mm ID x 12mm OD silcone tubing however much you think you need
+
+
+-> designed for A nema 23 with a 10x20mm shaft, well for a 30mm shaft then a realized I somehow slived the shaft in half and moved it 10mm up, I'm hoping it's tough enough to recieve most of its to revieve most of the torque with the rotor only coming up halfway through it. we'll see.i
+->designed resin printer in mind so tolerances are tight but in theory a well tuned fdm printer should do it.
+->as for getting the tubing in, uh good luck, in future having the walls of the body on a hinge and rotate around the rotor would be ideal but that is a hassle to design maybe in future version. 
+
+
